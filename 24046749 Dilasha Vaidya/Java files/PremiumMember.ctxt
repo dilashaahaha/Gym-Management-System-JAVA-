@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=PremiumMember
+comment0.text=This\ class\ PremiumMember\ is\ a\ child\ class\ of\ GymMember.\ This\ class\ consists\ of\ various\ methods\ that\ help\ store,\ update\ and\ manipulate\r\nvalues\ referring\ to\ the\ attributes\ of\ Premium\ member*
+comment1.params=id\ name\ location\ phone\ email\ gender\ DOB\ membershipStartDate\ personalTrainer
+comment1.target=PremiumMember(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ getPersonalTrainer()
+comment3.params=
+comment3.target=boolean\ getIsFullPayment()
+comment4.params=
+comment4.target=double\ getPaidAmount()
+comment5.params=
+comment5.target=double\ getDiscountAmount()
+comment6.params=payment
+comment6.target=java.lang.String\ payDueAmount(double)
+comment7.params=
+comment7.target=void\ calculateDiscount()
+comment8.params=
+comment8.target=void\ revertPremiumMember()
+comment9.params=
+comment9.target=void\ markAttendance()
+numComments=11
